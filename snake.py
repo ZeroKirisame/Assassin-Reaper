@@ -42,3 +42,5 @@ draw()
 
 
 window.mainloop()
+
+ #draw snake
